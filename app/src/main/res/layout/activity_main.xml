@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/button2"
         android:text="Broadcast Intent"
-        android:onClick="broadcastIntent"
+
         android:layout_below="@+id/imageButton"
         android:layout_centerHorizontal="true" />
 
